@@ -11,4 +11,4 @@ Tài liệu quy trình, hướng dẫn, tiêu chuẩn được sử dụng trong
 
 ## Danh sách tài liệu
 1. Tài liệu hướng dẫn thiết lập xuất file bin, hex, txt cho MSP430 trên CCS v20.3.1 (👉[Mở tài liệu](https://github.com/OXII-HW-FW/docs/blob/main/251001-HuongDan-CCS2031-XuatFile-bin_hex_txt.md))
-1. Tài liệu quy định đặt tên nhánh trong FW GIT (👉[Mở tài liệu](https://github.com/OXII-HW-FW/docs/blob/main/251002-QuyDinh-FW-GIT-DatTenNhanh.md))
+2. Tài liệu quy định đặt tên nhánh trong FW GIT (👉[Mở tài liệu](https://github.com/OXII-HW-FW/docs/blob/main/251002-QuyDinh-FW-GIT-DatTenNhanh.md))
