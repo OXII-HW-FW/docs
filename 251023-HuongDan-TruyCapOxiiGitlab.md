@@ -30,4 +30,4 @@ Hướng dẫn cài đặt phần mềm và truy cập vào hệ thống quản 
 - Đăng nhập bằng tài khoản Oxii Username (hoặc Oxii Email)
   - Ví dụ bằng Oxii Username: duan.dh
   - Ví dụ bằng Oxii Email: <duan.dh@oxiitek.com>
-  - Mật khẩu mặc định lần đăng nhập đầu tiên: <&123Ngoi*>
+  - Mật khẩu mặc định lần đăng nhập đầu tiên: &123Ngoi*
