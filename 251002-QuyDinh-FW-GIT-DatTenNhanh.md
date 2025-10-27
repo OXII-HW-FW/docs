@@ -22,7 +22,7 @@ Quy định đặt tên nhánh trên git áp dụng cho OXIITEK FIRMWARE
 
 | 1             | 2 | 3             | 4 | 5                 | 6 | 7                 | 8 | 9                         |
 |:-------------:|:-:|:-------------:|:-:|:-----------------:|:-:|:-----------------:|:-:|:-------------------------:|
-| Mã Project    | / | Mã phần cứng  | / | Mã đối tượng FW   | / | Mã Chip Target    | / | Mã giai đoạn phát triển   |
+| Mã Project    | _ | Mã phần cứng  | _ | Mã đối tượng FW   | _ | Mã Chip Target    | _ | Mã giai đoạn phát triển   |
 
 ### Mô tả
 
