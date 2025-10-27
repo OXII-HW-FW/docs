@@ -52,7 +52,7 @@ Quy định đặt tên nhánh trên git áp dụng cho OXIITEK FIRMWARE
      - Tổng số ký tự không vượt quá 20 kí tự
      - Ví dụ: Mã công tắc: SW2S-M4-V4.1 được viết là SW2S-M4-V41
 
-4. **/**
+4. **_**
 
      Kí tự phân cách
 
